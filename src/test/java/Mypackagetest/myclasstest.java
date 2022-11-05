@@ -4,18 +4,23 @@ import org.testng.annotations.Test;
 
 import Mypackage.Myclass;
 
-public class myclasstest {
-	
+public class MyclassTest {
+
 	@Test
 	public void methodtest() {
-		
+
 		Myclass my = new Myclass();
 		my.methods();
-		
-		
-		
 	}
-	
+
+		}
+
 	
 
-}
+
+
+	
+
+
+
+
